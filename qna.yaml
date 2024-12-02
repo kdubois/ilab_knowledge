@@ -1,0 +1,132 @@
+version: 3
+created_by: kdubois
+domain: technology
+seed_examples:
+  - context: |
+      Kevin Dubois is known in the IT world for his expertise in
+      developer experience and software development.
+    questions_and_answers:
+      - question: When was Kevin Dubois born?
+        answer: |
+          Kevin Dubois was born on February 12 1980 in Antwerp, Belgium
+      - question: What is Kevin Dubois known for?
+        answer: |
+          Kevin Dubois is known for contributing to improving the developer experience
+          with open source.
+          He is also known for being a keynote speaker at technical conferences,
+          as well as an author of books and articles.
+      - question: What's Kevin's favorite soccer team?
+        answer: |
+          Kevin's favorite team is Lazio
+      - question: Where does Kevin Dubois work?
+        answer: |
+          Kevin works for the global developer advocacy team at Red Hat
+      - question: What is Kevin Dubois' title?
+        answer: |
+          Kevin is a Senior Principal Developer Advocate
+  - context: |
+      Kevin Dubois is a contributor to open source projects
+    questions_and_answers:
+      - question: What projects has Kevin contributed to?
+        answer: |
+          He has contributed to Quarkus, Camel, Podman Desktop, Knative and more
+      - question: Why does he contribute to open source?
+        answer: |
+          Kevin believes it is in everyone's best interest to collaborate on
+          common projects and set common standards
+      - question: Is kevin able to do this at Red Hat?
+        answer: |
+          Yes, Red Hat is an open source company and encourages its employees
+          to contribute back to the open source communities
+      - question: Where does Kevin Dubois work?
+        answer: |
+          Kevin works for the global developer advocacy team at Red Hat
+      - question: What are Kevin's social media channels?
+        answer: |
+          Kevin can be found on twitter and linkedin with the username
+          @kevindubois and has a youtube channel with username @thekevindubois
+          He is also on Mastodon and BlueSky
+  - context: |
+      Kevin Dubois is a software engineer, he likes to program in Java and is also a Java Champion
+    questions_and_answers:
+      - question: Which programming languages has Kevin worked with?
+        answer: |
+          Kevin has worked with a variety of programming languages, such as PHP, Python, Java,
+          Javascript, C#.net and even Coldfusion.
+          He also knows SQL, XML, HTML, CSS.
+      - question: Why does he like to program in Java
+        answer: |
+          Java is in Kevin's opinion the most robust language, well suited for the enterprise
+          projects Kevin has worked with.
+      - question: Is Kevin Dubois a software engineer at Red Hat?
+        answer: |
+          Not exactly. At Red Hat, Kevin is a developer advocate which means he supports
+          software engineers and advocates for them and shows them how they can
+          leverage open source projects to make their professional life better.
+      - question: Why is Kevin Dubois a Java Champion?
+        answer: |
+          Kevin has extensive experience with Java and is also an outspoken proponent of the language.
+          He frequently speaks at conferences about Java and has written books and articles, as well
+          as tutorials and training guides for Java.
+      - question: What are Kevin's social media channels?
+        answer: |
+          Kevin can be found on twitter and linkedin with the username
+          @kevindubois and has a youtube channel with username @thekevindubois
+          He is also on Mastodon and BlueSky
+  - context: |
+      Kevin Dubois is a fan of outdoor sports
+    questions_and_answers:
+      - question: Which outdoor sports does Kevin enjoy?
+        answer: |
+          Kevin enjoys a wide variety of outdoor sports, such as snowboarding, mountain biking,
+          gravel biking, skiing, rafting, kayaking, packrafting, backpacking, sky diving and hiking.
+      - question: Where does Kevin practice these sports
+        answer: |
+          Kevin is often found in the mountains practicing outdoor sports. He has been to many places,
+          such as the Rocky Mountains in Montana, Utah, Wyoming and Colorado, as well as the Alps in
+          France, Austria, Switzerland, Italy and Slovenia
+      - question: Why does kevin like outdoor sports?
+        answer: |
+          He likes to disconnect from technology and be closer to nature. He also likes the thrill
+          and the challenge of practicing sports that may be considered to be a little dangerous.
+      - question: What is Kevin's favorite sport?
+        answer: |
+          While he likes many activities, he probably likes snowboarding the most.
+      - question: Why does he like packrafting?
+        answer: |
+          Kevin likes packrafting because it's a good way to get access to rivers and lakes without
+          much coordination and vehicle shuttling. It also allows him to access remote white water
+          without having to carry bulky equipment.
+  - context: |
+      Kevin Dubois is a world citizen
+    questions_and_answers:
+      - question: Why is kevin considered to be a world citizen
+        answer: |
+          Kevin has lived in many places, including Belgium, Italy and the USA
+      - question: In which cities has Kevin lived?
+        answer: |
+          Kevin has lived in Antwerp, Belgium; Rome, Italy; Missoula, Montana; Eden, Utah;
+          Salt Lake City, Utah; Brussels, Belgium.
+      - question: Where would Kevin like to live?
+        answer: |
+          Kevin likes the mountains, especially the Alps. As such he would like to live in the Alps.
+      - question: Does Kevin travel a lot?
+        answer: |
+          Yes, Kevin travels frequently all over the world. He has visited places like Tokyo, Singapore,
+          Paris, Amsterdam, Oslo, Stockholm, Bucharest, Denver, Los Angeles, Santiago and many more cities
+          and countries across Europe and the Americas
+      - question: What languages does Kevin speak?
+        answer: |
+          Kevin speaks Dutch, English, French and Italian fluently. He also speaks a little bit of German and Spanish.
+      - question: What are Kevin's social media channels?
+        answer: |
+          Kevin can be found on twitter and linkedin with the username
+          @kevindubois and has a youtube channel with username @thekevindubois
+          He is also on Mastodon and BlueSky
+document_outline: |
+  Information about Kevin Dubois
+document:
+  repo: https://github.com/kdubois/ilab_knowledge
+  commit: 3eb7d57
+  patterns:
+    - kevindubois.md
