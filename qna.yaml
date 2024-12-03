@@ -123,6 +123,6 @@ document_outline: |
   Information about Kevin Dubois
 document:
   repo: https://github.com/kdubois/ilab_knowledge
-  commit: 5b7006389deed10621bac297733868a062272108
+  commit: 257bc5c
   patterns:
     - kevindubois.md
